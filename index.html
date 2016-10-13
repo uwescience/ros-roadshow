@@ -1,29 +1,47 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Welcome to Neurohackweek</title>
-    <meta charset="utf-8">
-    <style>
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+<head>
+  <title>Reproducibility and open science</title>
+  <meta charset="utf-8">
+  <style>
+    @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+    @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+    @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
-      body { font-family: "Encode Sans Normal", serif }
-      h1, h2, h3 {
-        font-family: 'Encode Sans Normal';
-        font-weight: normal;
+    body { font-family: 'Droid Serif'; }
+    h1, h2, h3 {
+      font-family: 'Yanone Kaffeesatz';
+      font-weight: normal;
+    }
+    .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    .red { color: #fa0000; }
+    .blue { color: #0000fa; }
+
+    /* Two-column layout */
+    .left-column {
+      color: #777;
+      width: 20%;
+      height: 92%;
+      float: left;
+    }
+      .left-column h2:last-of-type, .left-column h3:last-child {
+        color: #000;
       }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-      .remark-slide-container {transition: opacity 0.5s ease-out;opacity: 0;}
-      .remark-visible {transition: opacity 0.5s ease-out;opacity: 1;}
+    .right-column {
+      width: 75%;
+      float: right;
+      padding-top: 1em;
+    }
+  </style>
+</head>
 
-    </style>
-  </head>
-  <body>
-    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
+<body>
+  <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured" type="text/javascript"></script>
 
-    <script src="remark-latest.min.js">
-    </script>
+  <script src="remark-latest.min.js">
+  </script>
 
-    <script>
+  <script>
     var slideshow = remark.create({
       navigation: {click: false, scroll: false},
       properties: {class: "center, middle"},
@@ -47,6 +65,7 @@
     });
 
     MathJax.Hub.Configured();
-    </script>
-  </body>
+  </script>
+</body>
+
 </html>
