@@ -220,5 +220,3 @@ http://dx.doi.org/10.1371/journal.pcbi.1003542
  -  [Software Carpentry](http://software-carpentry.org/)
 
  -  [Code Academy](https://www.codecademy.com/)
-
-    </textarea>
