@@ -1,6 +1,8 @@
 
 class: center, middle
 
+<image src="images/eScience_Logo_RGB_PP.png">
+
 # Reproducibility and Open Science
 
 <small>Follow along at: <a href="XXX">XXX</small>
@@ -9,18 +11,15 @@ class: center, middle
 
 <img src="images/escience.png" width=350>
 
-### UW eScience Institute
+<image src="images/DSE-and-sponsors.png" height=200px>
 
-Major funding from:
+#### $ 37.8M for 5 years: <a href="http://msdse.org/">"Moore-Sloan Data Science Environments"</a>
 
- - Gordon and Betty  Moore  Foundation,<br>
- - Alfred P. Sloan Foundation, <br>
- - Washington Research Foundation, <br>
+Additional funding from
+ - Washington Research Foundation <br>
  - National Science Foundation
 
-#### Data Science Environments project with Berkeley and NYU
-
-Reproducibility and Open Science Working Group:
+#### Reproducibility and Open Science Working Group:
 
  - https://reproduciblescience.org/
 
@@ -61,7 +60,7 @@ name: crotty1
 
 Quote from .blue[Reproducible Research: A Cautionary Tale]
 
-By David Crotty, March 26, 2014 on the [scholarly kitchen blog](??)
+By David Crotty, March 26, 2014 on the [scholarly kitchen blog](https://scholarlykitchen.sspnet.org/2014/03/26/reproducible-research-a-cautionary-tale/)
 
 
 .red["If your experiment consists of running numerical data through an algorithm,
@@ -87,6 +86,18 @@ template: crotty1
 
  - .blue[Data:] archiving, curation, sharing
  - .blue[Code:] scripting, versioning, collaborating, sharing
+ - .blue[Publication:] open access
+
+---
+
+name: pillars1
+
+### The pillars of reproducible open science
+
+<image src="images/gorgolewski-poldrack-three-pillars.png" height=400px>
+
+  <a href="http://biorxiv.org/content/early/2016/02/12/039354.full.pdf+html">Gorgolewski and Poldrack (2016)</a>
+
 
 ---
 
@@ -129,6 +140,13 @@ http://www.phdcomics.com/comics/archive.php?comicid=1531
 
 ---
 
+## <a href="https://git-scm.com/">Git</a>
+
+
+<img src="images/git.png" width=350>
+
+---
+
 ## Public Reproducibility...
 
 Allowing others to reproduce your results.
@@ -143,6 +161,12 @@ Allowing others to reproduce your results.
  -  Aids in understanding ideas, implementing methods
 
  -  Increases impact of work.
+
+---
+
+"an article about computational result is advertising, not scholarship. The actual scholarship is the full software environment, code and data, that produced the result."
+
+<a href="http://biostatistics.oxfordjournals.org/content/11/3/385.long">Buckheit and Donoho (1995) </a>
 
 ---
 
