@@ -316,51 +316,6 @@ http://www.astrobetter.com/blog/2014/03/10/the-whys-and-hows-of-licensing-scient
 
 ---
 
-### .blue[Making your software available]
-
-The broader open source software community has worked out a lot of the issues
-around making code available and broadly useful.
-
-
-- Version control
-
-- Automated software testing
-
-- Software licensing
-
---
-
-- Release with semantic versioning
-
----
-
-
-### Semantic versioning
-
-Is a way to communicate about your softwares readiness for use by others
-
---
-
-0.1 => "Here it is! Have fun, but don't expect me to support your particular use, or to keep this API"
-
---
-
-1.0 => "This is serious, and I intend to keep these APIs around for a while"
-
---
-
-1.1 => "A few additional features, but API is preserved"
-
---
-
-2.0 => "We might have broken some of our APIs since 1.1"
-
---
-
-### http://semver.org/
-
----
-
 ### Make your software citeable!
 
 To proceed in the academic career ladder, we need signals that our work is meaningful and useful
