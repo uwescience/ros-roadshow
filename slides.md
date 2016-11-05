@@ -392,9 +392,6 @@ http://dx.doi.org/10.1371/journal.pcbi.1003542
 
  - .blue[UW ResearchWorks:] https://researchworks.lib.washington.edu/ <br>
 
-   - Ex: Ocosta School tsunami study,
-     https://digital.lib.washington.edu/researchworks/handle/1773/24054
-
    - Ex: Human neuroimaging data,
      https://digital.lib.washington.edu/researchworks/handle/1773/33311
 
@@ -402,7 +399,7 @@ http://dx.doi.org/10.1371/journal.pcbi.1003542
  - .blue[figshare:] https://figshare.com/ <br>
 
  - .blue[Zenodo:] https://zenodo.org/ <br>
-     - Ex: Clawpack software at http://dx.doi.org/10.5281/zenodo.50982
+     - Ex: Clawpack Version 5.3.1 at http://dx.doi.org/10.5281/zenodo.50982
 
      - Ex: Code, data, and Jupyter notebooks for a paper:
        http://faculty.washington.edu/rjl/pubs/KLslip/index.html
